@@ -25,3 +25,4 @@ FemtoRV/femtosoc.txt
 FemtoRV/FIRMWARE/config.mk
 FemtoRV/TOOLS/environment.yml
 FemtoRV/TOOLS/requirements.txt
+FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV/a.out

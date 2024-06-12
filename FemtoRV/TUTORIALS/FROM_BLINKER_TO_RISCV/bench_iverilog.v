@@ -23,6 +23,8 @@ module bench();
 	 end
 	 prev_LEDS <= LEDS;
       end
+   $dumpfile("bench.vcd");
+   $dumpvars(0,bench);
    end
 endmodule   
    
